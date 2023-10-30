@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.77 (w)1999-2016 BSI
+[*] Sun Sep 10 18:00:16 2023
+[*]
+[dumpfile] "C:\Users\Marcos\Documents\UVG\Ciclo 4\Digital 1\Laboratorio 8\Ejercicio 4\top_tb.vcd"
+[dumpfile_mtime] "Sun Sep 10 18:00:03 2023"
+[dumpfile_size] 1261
+[savefile] "C:\Users\Marcos\Documents\UVG\Ciclo 4\Digital 1\Laboratorio 8\Ejercicio 4\top_tb.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-5.518126 47 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top_tb.
+[sst_width] 211
+[signals_width] 145
+[sst_expanded] 1
+[sst_vpaned_height] 154
+@28
+top_tb.U1.clk
+top_tb.U1.reset
+top_tb.U1.enable
+@22
+top_tb.U1.CONT[3:0]
+@28
+top_tb.U1.overf
+[pattern_trace] 1
+[pattern_trace] 0
